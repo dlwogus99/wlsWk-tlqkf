@@ -57,7 +57,7 @@ ROOT_URLCONF = 'myproject.urls'
 TEMPLATES = [
     {
         'BACKEND': 'django.template.backends.django.DjangoTemplates',
-        'DIRS': [BASE_DIR,'template')],
+        'DIRS': ['/home/ubuntu/wlsWk-tlqkf','template')],
         'APP_DIRS': True,
         'OPTIONS': {
             'context_processors': [
